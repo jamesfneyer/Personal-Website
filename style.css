@@ -1,6 +1,7 @@
 body{
-	background-image: url(https://s3.us-east-2.amazonaws.com/james.neyer.me/background.jpg);
-	background-repeat: no-repeat;
+	/*background-image: url(https://s3.us-east-2.amazonaws.com/james.neyer.me/background.jpg);*/
+	background-image: url(https://markpneyer.files.wordpress.com/2017/04/3d2d0916.png);
+	background-repeat: repeat;
 	background-attachment: fixed;
 	color:#ffffff;
 	padding-top: 70px;
@@ -17,7 +18,7 @@ a:link{
 	color:#553D67;
 }
 a:visited{
-	color:#99738E;
+	color:#A9A9A9;
 }
 
 section{
@@ -37,4 +38,7 @@ section{
     overflow-x: auto;
     width: auto;
     min-width: 300px;   
+}
+.portfolio-item{
+	padding-right: 40px;
 }
