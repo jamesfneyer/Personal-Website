@@ -28,9 +28,6 @@ section{
 .modal-content{
 	color: black;
 }
-.links{
-	font-size: 30px;
-}
 .modal-dialog{
     position: relative;
     display: table; 
